@@ -1,6 +1,7 @@
 {
   "name": "sukumaran-portfolio-final",
   "version": "1.0.0",
+  "homepage": "https://sukumaran2k2.github.io/sukuportfolio/",
   "private": true,
   "scripts": {
     "dev": "vite",
