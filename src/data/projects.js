@@ -5,7 +5,7 @@ export const projects = [
     desc: "This Weather App showcasing the Weather on manually or on Geo-loaction and suggestion of suitable Dress.",
     demo: "#",
     code: "#",
-    image: "/assets/Weather App.png"
+    image: "/sukuportfolio/WeatherApp.png"
   },
   {
     title:"Expense Tracker",
@@ -14,7 +14,7 @@ export const projects = [
     desc: "A lightweight Expense Tracker application with userfriendly UI.",
     demo: "#",
     code: "#",
-    image: "/assets/Expense Tracker.png"
+    image: "/sukuportfolio/ExpenseTracker.png"
   },
   {
     title: "Application Tracker",
@@ -22,6 +22,6 @@ export const projects = [
     desc: "Application Tracker which is very helpful with tracking of the application ",
     demo: "#",
     code: "#",
-    image: "/assets/Application Tracker.png"
+    image: "/sukuportfolio/ApplicationTracker.png"
   }
 ]

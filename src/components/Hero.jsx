@@ -24,7 +24,7 @@ export default function Hero() {
           </motion.div>
 
           <motion.div initial={{ opacity: 0, y: 12 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.8  ,delay: 0.15 }}className="hidden md:flex items-center justify-center">
-            <div className="h-64 w-64 rounded-xl bg-gradient-to-br from-brand to-indigo-400 flex items-center justify-center text-white font-bold text-4xl"><img src="assets\sukumar.jpg" alt="" className=' rounded-xl' /></div>
+            <div className="h-64 w-64 rounded-xl bg-gradient-to-br from-brand to-indigo-400 flex items-center justify-center text-white font-bold text-4xl"><img src="/sukuportfolio/sukumar.jpg" alt="" className=' rounded-xl' /></div>
           </motion.div>
         </div>
       </div>
