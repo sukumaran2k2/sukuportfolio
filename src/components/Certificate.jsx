@@ -20,7 +20,7 @@ const Certificate = () => {
     >
       <div className="mx-auto max-w-6xl px-6">
         <h3 className="text-2xl font-semibold font-display">Certificate</h3>
-           {/* 01 */}
+        {/* 01 */}
         <div className="flex items-start gap-4 p-4 rounded-lg border bg-white/60 dark:bg-slate-900/60">
           <div className="mt-1 text-2xl text-brand">
             <FaCertificate />
@@ -32,7 +32,7 @@ const Certificate = () => {
             </div>
           </div>
         </div>
-            {/* 02 */}
+        {/* 02 */}
         <div className="flex items-start gap-4 mt-3 p-4 rounded-lg border bg-white/60 dark:bg-slate-900/60">
           <div className="mt-1 text-2xl text-brand">
             <FaCertificate />
@@ -40,11 +40,11 @@ const Certificate = () => {
           <div>
             <h4 className="font-semibold">Mern Stack</h4>
             <div className="text-sm text-neutral-600 dark:text-neutral-300">
-             Introduction to  Mern Stack
+              Introduction to Mern Stack
             </div>
           </div>
         </div>
-            {/* 03 */}
+        {/* 03 */}
         <div className="flex items-start gap-4 mt-3 p-4 rounded-lg border bg-white/60 dark:bg-slate-900/60">
           <div className="mt-1 text-2xl text-brand">
             <FaCertificate />
@@ -52,11 +52,10 @@ const Certificate = () => {
           <div>
             <h4 className="font-semibold">React JS</h4>
             <div className="text-sm text-neutral-600 dark:text-neutral-300">
-             React Full Course
+              React Full Course
             </div>
           </div>
         </div>
-
       </div>
     </motion.section>
   );
