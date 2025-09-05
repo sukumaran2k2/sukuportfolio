@@ -58,7 +58,7 @@ export default function Hero() {
           >
             <div className="h-64 w-64 rounded-xl bg-gradient-to-br from-brand to-indigo-400 flex items-center justify-center text-white font-bold text-4xl">
               <img
-                src="/sukuportfolio/sukumar.jpg"
+                src="/sukumar.jpg"
                 alt=""
                 className=" rounded-xl"
               />
