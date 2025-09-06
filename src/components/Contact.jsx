@@ -9,10 +9,10 @@ export default function Contact() {
     setStatus("Sending...");
     emailjs
       .sendForm(
-        "YOUR_SERVICE_ID",
-        "YOUR_TEMPLATE_ID",
+        "service_p4sqhp9",
+        "template_s62hiiy",
         e.target,
-        "YOUR_PUBLIC_KEY",
+        "gBEdJ38dCY9q1Zx7-",
       )
       .then(() => setStatus("✅ Message sent!"))
       .catch(() => setStatus("❌ Failed, try again."));
@@ -34,23 +34,26 @@ export default function Contact() {
         >
           <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
             <input
+              type="text"
               name="user_name"
               required
               placeholder="Name"
-              className="p-3 rounded border"
+              className="p-3 rounded border bg-white dark:bg-slate-800 text-black dark:text-white"
             />
             <input
+              type="email"
               name="user_email"
               required
               placeholder="Email"
-              className="p-3 rounded border"
+              className="p-3 rounded border bg-white dark:bg-slate-800 text-black dark:text-white"
             />
           </div>
           <textarea
+            typeof="message"
             name="message"
             required
             placeholder="Message"
-            className="mt-4 p-3 rounded border w-full"
+            className="mt-4 p-3 rounded border w-full bg-white dark:bg-slate-800 text-black dark:text-white"
             rows="6"
           />
           <div className="mt-4 flex items-center justify-between">
