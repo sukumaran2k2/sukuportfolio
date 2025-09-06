@@ -1,6 +1,6 @@
 import React from "react";
 import { motion } from "framer-motion";
-
+import { IoIosDownload } from "react-icons/io";
 export default function Hero() {
   return (
     <section
