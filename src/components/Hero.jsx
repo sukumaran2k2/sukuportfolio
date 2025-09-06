@@ -47,6 +47,10 @@ export default function Hero() {
               >
                 Contact
               </a>
+              <a href="/RESUME.pdf"
+                className="text-sm flex  text-neutral-600 hover:text-brand dark:text-neutral-300"
+              > <IoIosDownload />RESUME
+              </a>
             </div>
           </motion.div>
 
