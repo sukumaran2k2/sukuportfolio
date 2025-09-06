@@ -10,7 +10,7 @@ export default function Header() {
           <nav className="flex items-center gap-4">
             <a href="/RESUME.pdf"
             
-               className="text-sm flex  text-neutral-600 hover:text-brand dark:text-neutral-300"
+               className="rounded-md flex border border-neutral-200 px-3 "
             > <IoIosDownload />RESUME</a>
             <a
               href="#about"
