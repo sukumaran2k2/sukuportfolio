@@ -8,6 +8,7 @@ import Education from "./components/Education";
 import Contact from "./components/Contact";
 import Footer from "./components/Footer";
 import Certificate from "./components/Certificate";
+import Resume from "./components/Resume";
 
 export default function App() {
   return (
