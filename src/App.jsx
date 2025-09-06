@@ -15,6 +15,7 @@ export default function App() {
       <Header />
       <main className="pt-24">
         <Hero />
+        <Resume/>
         <About />
         <Skills />
         <Certificate />
