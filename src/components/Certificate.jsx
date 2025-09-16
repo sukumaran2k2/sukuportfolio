@@ -59,13 +59,15 @@ const Certificate = () => {
                   <div className="px-3 py-1 text-sm text-neutral-600 dark:text-neutral-300 ">
                     {cert.desc}
                   </div>
+
+                  
                 </div>
               </div>
 
               {/* View Button */}
               <button
                 onClick={() => setSelectedCert(cert.image)}
-                className=" mt-3 w-fit px-3 py-1 text-sm font-medium text-white bg-brand rounded-lg hover:bg-brand/90 transition-colors"
+                className="ml-8 mt-3 w-fit px-3 py-1 text-sm font-medium text-white bg-brand rounded-lg hover:bg-brand/90 transition-colors"
               >
                 View Certificate
               </button>
