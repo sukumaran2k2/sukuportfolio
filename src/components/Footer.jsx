@@ -21,7 +21,7 @@ export default function Footer() {
     <footer className="py-8 mt-12">
       <div className="flex justify-center space-x-8 text-2xl">
         <a
-          href="https://github.com/username"
+          href="https://github.com/sukumaran2k2"
           target="_blank"
           rel="noopener noreferrer"
           className="hover:text-brand transition"
@@ -30,7 +30,7 @@ export default function Footer() {
           <FaGithub />{" "}
         </a>
         <a
-          href="https://linkedin.com/in/username"
+          href="https://www.linkedin.com/in/sukumaran-s-36171a383/https://www.linkedin.com/in/sukumaran-s-36171a383/"
           target="_blank"
           rel="noopener noreferrer"
           className="hover:text-brand transition"
@@ -39,7 +39,7 @@ export default function Footer() {
           <FaLinkedin />{" "}
         </a>
         <a
-          href="mailto:youremail@gmail.com"
+          href="mailto:sukumaran2k2@@gmail.com"
           className="hover:text-red-400 transition"
         >
           {" "}

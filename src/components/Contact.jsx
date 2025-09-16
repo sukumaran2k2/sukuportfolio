@@ -67,7 +67,7 @@ export default function Contact() {
           {status && <p className="mt-3">{status}</p>}
           <div className="mt-4 flex items-center gap-4">
             <a
-              href="https://github.com/username"
+              href="https://github.com/sukumaran2k2"
               target="_blank"
               rel="noreferrer"
               className="text-2xl"
@@ -75,7 +75,7 @@ export default function Contact() {
               GitHub
             </a>
             <a
-              href="https://linkedin.com/in/username"
+              href="https://www.linkedin.com/in/sukumaran-s-36171a383/"
               target="_blank"
               rel="noreferrer"
               className="text-2xl"
@@ -83,6 +83,8 @@ export default function Contact() {
               LinkedIn
             </a>
           </div>
+          <div className="pt-4">Mail: Sukumaran2k2@gmail.com</div>
+          <div className="pt-4">Contact No: 9655835731</div>
         </form>
       </div>
     </motion.section>
