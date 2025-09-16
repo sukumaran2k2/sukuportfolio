@@ -8,7 +8,7 @@ export default function Header() {
         <div className="flex items-center justify-between rounded-2xl border border-brand/20 bg-white/70 p-3 backdrop-blur dark:border-brand/30 dark:bg-slate-900/60">
           <div className="text-sm font-semibold font-display">SUKUMARAN S</div>
           <nav className="flex items-center gap-4">
-            <a href="/RESUME.pdf"
+            <a href="/Resume1.pdf"
             
                className="rounded-md flex border border-neutral-200 px-3 "
             > <IoIosDownload />RESUME</a>
