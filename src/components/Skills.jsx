@@ -10,6 +10,10 @@ const skills = [
     src: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg",
   },
   {
+    name: "TailwindCSS",
+    src: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/768px-Tailwind_CSS_Logo.svg.png?20230715030042",
+  },
+  {
     name: "JavaScript",
     src: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg",
   },
@@ -18,21 +22,18 @@ const skills = [
     src: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg",
   },
   {
-    name: "TailwindCSS",
-    src: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/768px-Tailwind_CSS_Logo.svg.png?20230715030042",
+    name: "TypeScript",
+    src: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg",
   },
+
   {
-    name: "Bootstrap",
-    src: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg",
+    name: "Redux",
+    src: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg",
   },
   {
     name: "Git",
     src: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg",
   },
-  // {
-  //   name: "TypeScript",
-  //   src: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg",
-  // },
 ];
 
 export default function Skills() {

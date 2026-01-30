@@ -6,6 +6,8 @@ const tagColors = {
   HTML: "bg-orange-300 text-orange-900",
   JavaScript: "bg-yellow-300 text-yellow-900",
   React: "bg-sky-300 text-sky-900",
+  TypeScript: "bg-blue-300 text-blue-900",
+  "Tailwind CSS": "bg-cyan-300 text-cyan-900",
   Local: "bg-green-300 text-green-900",
   default: "bg-gray-300 text-gray-900",
 };

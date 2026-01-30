@@ -47,7 +47,7 @@ export default function Hero() {
               >
                 Contact
               </a>
-              <a href="/Resume1.pdf"
+              <a href="/Resume-Sukumaran.pdf"
                 className="rounded-md flex border border-neutral-200 px-4 py-2"
               > <IoIosDownload /> RESUME
               </a>

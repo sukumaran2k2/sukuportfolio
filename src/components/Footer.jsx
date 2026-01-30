@@ -30,7 +30,7 @@ export default function Footer() {
           <FaGithub />{" "}
         </a>
         <a
-          href="https://www.linkedin.com/in/sukumaran-s-36171a383/https://www.linkedin.com/in/sukumaran-s-36171a383/"
+          href="https://www.linkedin.com/in/sukumaran-2k2/"
           target="_blank"
           rel="noopener noreferrer"
           className="hover:text-brand transition"
